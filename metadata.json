@@ -1,0 +1,6 @@
+{
+  "name": "Matriz Mundial 2026",
+  "description": "Simulador interactivo y matriz de escenarios para el Mundial 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
